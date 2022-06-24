@@ -16,9 +16,6 @@ public class You {
     public VoiceCommand getNextStep(Clark clark, CityMap cityMap) {
         VoiceCommand voiceCommand = new VoiceCommand(Direction.SOUTH, SpeedLevel.L0_RUNNING_HUMAN);
 
-        // TODO: Implement algorithm to return command to Clark to capture all the targets on the city map provided
-        //<<SOLUTION START>>
-
         if (targetsToCapture == null) {
             targetsToCapture = cityMap.getTargets();
         }
@@ -34,32 +31,28 @@ public class You {
 
         if (diffX < 2 && diffY < 2) {
             System.out.println("Removing target");
-            //Consider it captured
-            targetsToCapture.remove(0);
+            targetsToCapture.remove(0); //Consider it captured
 
-        } else if (targetToCapture.x > clark.getPosition().x) {
+        } else if (targetToCapture.x > clark.getPosition().x && diffX > 2) {
             voiceCommand = new VoiceCommand(Direction.EAST, horizontalSpeedLevel);
-        } else if (targetToCapture.y > clark.getPosition().y) {
-            voiceCommand = new VoiceCommand(Direction.NORTH, verticalSpeedLevel);
-        } else if (targetToCapture.x < clark.getPosition().x) {
+        } else if (targetToCapture.x < clark.getPosition().x && diffX > 2) {
             voiceCommand = new VoiceCommand(Direction.WEST, horizontalSpeedLevel);
-        } else if (targetToCapture.y < clark.getPosition().y) {
+        } else if (targetToCapture.y > clark.getPosition().y && diffY > 2) {
+            voiceCommand = new VoiceCommand(Direction.NORTH, verticalSpeedLevel);
+        } else if (targetToCapture.y < clark.getPosition().y && diffY > 2) {
             voiceCommand = new VoiceCommand(Direction.SOUTH, verticalSpeedLevel);
         }
 
         System.out.println(voiceCommand);
-        //<<SOLUTION END>>
         return voiceCommand;
     }
 
-    //<<SOLUTION START>>
     private SpeedLevel thinkOfSpeedLevel(int distanceDiff, double speed) {
-        if (distanceDiff > 50)
-            return SpeedLevel.L2_SUB_SONIC;
-        if (distanceDiff > 20)
+        if (distanceDiff > 45)
             return SpeedLevel.L3_SUPER_SONIC;
+        if (distanceDiff > 15)
+            return SpeedLevel.L2_SUB_SONIC;
 
         return SpeedLevel.L4_MACH_9350;
     }
-    //<<SOLUTION END>>
 }
