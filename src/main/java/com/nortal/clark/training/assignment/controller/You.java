@@ -21,6 +21,16 @@ public class You {
         }
 
         Position targetToCapture = targetsToCapture.get(0);
+        int index = 0;
+
+        for (int i = 0; i < targetsToCapture.size(); i++) {
+            Position testTargetToCapture = targetsToCapture.get(i);
+            if (testTargetToCapture.x < targetToCapture.x) {
+                targetToCapture = testTargetToCapture;
+                index = i;
+            }
+        }
+
         System.out.println(clark + " ->> x=" + targetToCapture.x + ", y=" + targetToCapture.y);
 
         int diffX = Math.abs(targetToCapture.x - clark.getPosition().x);
@@ -31,10 +41,14 @@ public class You {
 
         if (diffX < 2 && diffY < 2) {
             System.out.println("Removing target");
-            targetsToCapture.remove(0); //Consider it captured
+            targetsToCapture.remove(index); //Consider it captured
 
         } else if (targetToCapture.x > clark.getPosition().x && diffX > 2) {
-            voiceCommand = new VoiceCommand(Direction.EAST, horizontalSpeedLevel);
+            if (diffX > 15) {
+                voiceCommand = new VoiceCommand(Direction.EAST, horizontalSpeedLevel);
+            } else {
+                voiceCommand = new VoiceCommand(Direction.EAST, SpeedLevel.L3_SUPER_SONIC);
+            }
         } else if (targetToCapture.x < clark.getPosition().x && diffX > 2) {
             voiceCommand = new VoiceCommand(Direction.WEST, horizontalSpeedLevel);
         } else if (targetToCapture.y > clark.getPosition().y && diffY > 2) {
@@ -49,10 +63,10 @@ public class You {
 
     private SpeedLevel thinkOfSpeedLevel(int distanceDiff, double speed) {
         if (distanceDiff > 45)
-            return SpeedLevel.L3_SUPER_SONIC;
-        if (distanceDiff > 15)
+            return SpeedLevel.L4_MACH_9350;
+        if (distanceDiff > 10)
             return SpeedLevel.L2_SUB_SONIC;
 
-        return SpeedLevel.L4_MACH_9350;
+        return SpeedLevel.L3_SUPER_SONIC;
     }
 }

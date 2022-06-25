@@ -1,1331 +1,864 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.nortal.clark.training.test.provided.ManyTargetsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-24T13:23:00" hostname="DESKTOP-UME1DA6" time="13.261">
+<testsuite name="com.nortal.clark.training.test.provided.ManyTargetsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-25T08:34:07" hostname="DESKTOP-UME1DA6" time="6.892">
   <properties/>
-  <testcase name="manyTargets()" classname="com.nortal.clark.training.test.provided.ManyTargetsTest" time="13.261"/>
+  <testcase name="manyTargets()" classname="com.nortal.clark.training.test.provided.ManyTargetsTest" time="6.892"/>
   <system-out><![CDATA[Clark {horizontal=0.0, vertical=0.0, position=(1 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.7, vertical=0.0, position=(1 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=1.3987749999999999, vertical=0.0, position=(2 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=2.0938835712484374, vertical=0.0, position=(3 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=2.782922700223577, vertical=0.0, position=(4 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=3.463561053335028, vertical=0.0, position=(6 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=4.133570415409579, vertical=0.0, position=(8 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=4.790854404461706, vertical=0.0, position=(10 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=5.433473689649831, vertical=0.0, position=(13 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=6.0596670988095385, vertical=0.0, position=(16 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=6.667868185438551, vertical=0.0, position=(19 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=7.256717020092593, vertical=0.0, position=(22 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=7.825067165318339, vertical=0.0, position=(26 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=8.37198797496398, vertical=0.0, position=(30 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=8.896762518331627, vertical=0.0, position=(34 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=9.398881560062652, vertical=0.0, position=(39 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=9.878034123612437, vertical=0.0, position=(44 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=10.334095228244308, vertical=0.0, position=(49 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=10.767111417778255, vertical=0.0, position=(54 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=11.177284697071126, vertical=0.0, position=(59 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=1.2, vertical=0.0, position=(1 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=2.3964, vertical=0.0, position=(2 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=3.5820431675999997, vertical=0.0, position=(3 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=4.7499655844636255, vertical=0.0, position=(5 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=5.893560151829654, vertical=0.0, position=(8 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=7.006725023671567, vertical=0.0, position=(11 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=8.083989534778205, vertical=0.0, position=(15 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=9.120612317782196, vertical=0.0, position=(19 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=10.112648395153995, vertical=0.0, position=(24 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=11.056984251243968, vertical=0.0, position=(29 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=11.951341999413325, vertical=0.0, position=(35 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=12.794255560445972, vertical=0.0, position=(41 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=13.585023122080965, vertical=0.0, position=(48 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=14.32364098901228, vertical=0.0, position=(55 ; 1)} ->> x=100, y=200
 VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=11.064955464072675, vertical=0.0, position=(65 ; 1)} ->> x=100, y=200
+Clark {horizontal=14.010724261056998, vertical=0.0, position=(62 ; 1)} ->> x=100, y=200
 VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=10.958872365517895, vertical=0.0, position=(71 ; 1)} ->> x=100, y=200
+Clark {horizontal=13.719973275258571, vertical=0.0, position=(69 ; 1)} ->> x=100, y=200
 VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=10.858630156708616, vertical=0.0, position=(76 ; 1)} ->> x=100, y=200
+Clark {horizontal=13.449379108574048, vertical=0.0, position=(76 ; 1)} ->> x=100, y=200
 VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=10.763855534508162, vertical=0.0, position=(81 ; 1)} ->> x=100, y=200
+Clark {horizontal=13.197164612558678, vertical=0.0, position=(83 ; 1)} ->> x=100, y=200
 VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=10.674204069588757, vertical=0.0, position=(86 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=11.589357488290695, vertical=0.0, position=(92 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=12.453574470812196, vertical=0.0, position=(98 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=11.265845678062032, vertical=0.7, position=(104 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=8.148547480957259, vertical=0.0, position=(109 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=5.182550415833721, vertical=0.0, position=(112 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=2.3154033438020756, vertical=0.0, position=(114 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-0.4979993878091493, vertical=0.0, position=(114 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-1.6973793793335035, vertical=0.0, position=(113 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-2.890176637440037, vertical=0.0, position=(112 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-4.069293834951027, vertical=0.0, position=(110 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-5.227895954163101, vertical=0.0, position=(108 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-6.359568713894213, vertical=0.0, position=(105 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-7.458458428327358, vertical=0.0, position=(102 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-6.519386923009639, vertical=0.7, position=(99 ; 1)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-5.613130908379866, vertical=1.3987749999999999, position=(96 ; 2)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-2.7343628118933427, vertical=0.5938835712484374, position=(94 ; 2)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=0.08432903807432046, vertical=0.0, position=(93 ; 2)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=1.284311259607664, vertical=0.0, position=(93 ; 2)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=2.4801876210787763, vertical=0.0, position=(94 ; 2)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=3.6648092944893955, vertical=0.0, position=(96 ; 2)} ->> x=100, y=200
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=4.831232226576956, vertical=0.0, position=(98 ; 2)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=3.972880214509167, vertical=0.7, position=(100 ; 2)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=3.1334207715120708, vertical=1.3987749999999999, position=(102 ; 3)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=2.3088749571837126, vertical=2.0938835712484374, position=(103 ; 4)} ->> x=100, y=200
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-0.5044523017360629, vertical=1.282922700223577, position=(103 ; 5)} ->> x=100, y=200
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-1.703816121424246, vertical=0.47880797358670457, position=(102 ; 5)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-0.896558647985183, vertical=1.178234830897779, position=(101 ; 5)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-0.09454910446199039, vertical=1.8747642376059273, position=(101 ; 6)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=2.565977385239412, position=(101 ; 7)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=3.249516785385512, position=(101 ; 8)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=3.9231183870392563, position=(101 ; 10)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=4.5846412423424425, position=(101 ; 12)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=5.232093904039974, position=(101 ; 14)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=5.8636568874882435, position=(101 ; 17)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=6.477700707252772, position=(101 ; 20)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=7.0727991911209145, position=(101 ; 23)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=7.647737970126113, position=(101 ; 27)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=8.201518229976841, position=(101 ; 31)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=8.733355976785235, position=(101 ; 35)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=9.242677210242109, position=(101 ; 39)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=9.729109505210287, position=(101 ; 44)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=10.192470575799355, position=(101 ; 49)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=10.632754434703015, position=(101 ; 54)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=11.050115767531274, position=(101 ; 59)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=11.444853121341666, position=(101 ; 65)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=11.817391463918955, position=(101 ; 71)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=12.168264611390194, position=(101 ; 77)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=12.498097952258167, position=(101 ; 83)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=12.807591821197567, position=(101 ; 89)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=13.09750580055155, position=(101 ; 95)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=13.368644155062846, position=(101 ; 102)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=13.621842538701106, position=(101 ; 109)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=13.857956053328188, position=(101 ; 116)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=14.077848688388249, position=(101 ; 123)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=14.282384129155362, position=(101 ; 130)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=14.47241788812349, position=(101 ; 137)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=14.648790689302297, position=(101 ; 144)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=14.812323017654823, position=(101 ; 151)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=14.963810734706456, position=(101 ; 158)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.0, vertical=14.604021655446166, position=(101 ; 165)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.0, vertical=14.270828034164314, position=(101 ; 172)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.0, vertical=13.961686702212589, position=(101 ; 179)} ->> x=100, y=200
-VoiceCommand(direction=NORTH, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.0, vertical=13.67436496328574, position=(101 ; 186)} ->> x=100, y=200
+Clark {horizontal=12.96175172803125, vertical=0.0, position=(90 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=13.241734208383448, vertical=0.0, position=(97 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=13.503375396269767, vertical=0.0, position=(104 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=10.747522528538308, vertical=0.0, position=(110 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=8.158749427284711, vertical=0.0, position=(115 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=6.192336446741664, vertical=0.0, position=(119 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=4.296473870067551, vertical=0.0, position=(122 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=2.4503246507771177, vertical=0.0, position=(124 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.6353144235416026, vertical=0.0, position=(125 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-1.1656946375002974, vertical=0.0, position=(125 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-1.362297527530555, vertical=0.0, position=(124 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-1.5576578911467656, vertical=0.0, position=(123 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-1.7515921458821362, vertical=0.0, position=(122 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-1.943921958268346, vertical=0.0, position=(121 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-2.1344748768187514, vertical=0.0, position=(120 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-2.3230849193193253, vertical=0.0, position=(119 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-2.509593110463403, vertical=0.0, position=(118 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-2.6938479665131894, vertical=0.0, position=(117 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-2.8757059243464713, vertical=0.0, position=(116 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-3.0550317129381677, vertical=0.0, position=(115 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-3.231698666020523, vertical=0.0, position=(113 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-3.405588975350626, vertical=0.0, position=(111 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-3.5765938846780516, vertical=0.0, position=(109 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-4.24461382513826, vertical=0.0, position=(107 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-4.899571958826873, vertical=0.0, position=(105 ; 1)} ->> x=100, y=200
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-5.539557445377566, vertical=0.0, position=(102 ; 1)} ->> x=100, y=200
 VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
-Clark {horizontal=0.0, vertical=14.4068943204129, position=(101 ; 193)} ->> x=100, y=200
+Clark {horizontal=-4.662840703650971, vertical=1.2, position=(99 ; 1)} ->> x=100, y=200
 VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
-Clark {horizontal=0.0, vertical=15.087997810514036, position=(101 ; 200)} ->> x=100, y=200
+Clark {horizontal=-3.8084854950819107, vertical=2.3964, position=(97 ; 2)} ->> x=100, y=200
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-1.4722240906662876, vertical=1.5820431675999997, position=(96 ; 3)} ->> x=100, y=200
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=0.8331945187665579, vertical=0.7757860161396251, position=(96 ; 4)} ->> x=100, y=200
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=1.5314589860013013, vertical=0.0, position=(97 ; 4)} ->> x=100, y=200
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=2.225595569436791, vertical=0.0, position=(98 ; 4)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=1.4132123803400491, vertical=1.2, position=(99 ; 4)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.6082194572601831, vertical=2.3964, position=(100 ; 5)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=3.5820431675999997, position=(100 ; 6)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=4.7499655844636255, position=(100 ; 8)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=5.893560151829654, position=(100 ; 11)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=7.006725023671567, position=(100 ; 14)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=8.083989534778205, position=(100 ; 18)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=9.120612317782196, position=(100 ; 22)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=10.112648395153995, position=(100 ; 27)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=11.056984251243968, position=(100 ; 32)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=11.951341999413325, position=(100 ; 38)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=12.794255560445972, position=(100 ; 44)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=13.585023122080965, position=(100 ; 51)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=14.32364098901228, position=(100 ; 58)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=15.010724261056998, position=(100 ; 65)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=15.647419653953285, position=(100 ; 73)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=16.235315299385977, position=(100 ; 81)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=16.776351642209786, position=(100 ; 89)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=17.2727367061521, position=(100 ; 98)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=17.726868122851965, position=(100 ; 107)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=18.141263489239503, position=(100 ; 116)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=18.518499886774467, position=(100 ; 125)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=18.8611627916333, position=(100 ; 134)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=19.17180413700207, position=(100 ; 144)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=19.452908952333146, position=(100 ; 154)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=19.70686978556374, position=(100 ; 164)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=18.935967993700828, position=(100 ; 174)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=18.23954078405467, position=(100 ; 183)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=17.60783866402169, position=(100 ; 192)} ->> x=100, y=200
+VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=0.0, vertical=17.532748707976147, position=(100 ; 201)} ->> x=100, y=200
 Removing target
 VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
-Clark {horizontal=0.0, vertical=13.718878615688844, position=(101 ; 207)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.7, vertical=12.448359539508832, position=(101 ; 214)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=1.3987749999999999, vertical=11.26095540144663, position=(102 ; 220)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=2.0938835712484374, vertical=10.143932610063205, position=(103 ; 225)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=2.782922700223577, vertical=9.086684188069446, position=(104 ; 230)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=3.463561053335028, vertical=8.080264614235167, position=(106 ; 234)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=3.63357041540958, vertical=7.1170379236450145, position=(108 ; 238)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=3.80056333050023, vertical=6.190407351628512, position=(110 ; 241)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=3.9644526264273727, vertical=5.294604493680771, position=(112 ; 244)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=4.125160414859406, vertical=4.424522401819509, position=(114 ; 246)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=4.282618043738598, vertical=3.575581405609002, position=(116 ; 248)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=4.436766000467209, vertical=2.74361944963866, position=(118 ; 250)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=4.587553769109954, vertical=1.924800830427571, position=(120 ; 251)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=4.734939645148767, vertical=1.1155386848355344, position=(122 ; 252)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=4.878890511540764, vertical=0.31242761844212286, position=(124 ; 252)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=5.019381579981758, vertical=0.0, position=(126 ; 252)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=5.156396101368108, vertical=0.0, position=(129 ; 252)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=5.289925049482597, vertical=0.0, position=(132 ; 252)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=5.419966781909738, vertical=0.0, position=(135 ; 252)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=6.546526682117226, vertical=0.0, position=(138 ; 252)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=7.639384153118044, vertical=0.0, position=(142 ; 252)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=8.693483677520767, vertical=0.0, position=(146 ; 252)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=9.704542031392467, vertical=0.0, position=(151 ; 252)} ->> x=150, y=120
+Clark {horizontal=0.0, vertical=15.96425551483355, position=(100 ; 209)} ->> x=100, y=370
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=16.527111879476315, position=(100 ; 217)} ->> x=100, y=370
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=17.044248311784497, position=(100 ; 225)} ->> x=100, y=370
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=17.517982310500074, position=(100 ; 234)} ->> x=100, y=370
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=17.950783049922588, position=(100 ; 243)} ->> x=100, y=370
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=18.34520651965912, position=(100 ; 252)} ->> x=100, y=370
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=18.70384001403676, position=(100 ; 261)} ->> x=100, y=370
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=19.029255935860053, position=(100 ; 270)} ->> x=100, y=370
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=19.32397448217889, position=(100 ; 280)} ->> x=100, y=370
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=19.590434507709137, position=(100 ; 290)} ->> x=100, y=370
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=19.830971697207033, position=(100 ; 300)} ->> x=100, y=370
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=20.047803101068467, position=(100 ; 310)} ->> x=100, y=370
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=20.24301707812044, position=(100 ; 320)} ->> x=100, y=370
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=20.418567727057752, position=(100 ; 330)} ->> x=100, y=370
+VoiceCommand(direction=NORTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=19.57627295699664, position=(100 ; 340)} ->> x=100, y=370
+VoiceCommand(direction=NORTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=18.818196799779546, position=(100 ; 350)} ->> x=100, y=370
+VoiceCommand(direction=NORTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=18.132885472791465, position=(100 ; 359)} ->> x=100, y=370
+VoiceCommand(direction=NORTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=17.510881633868035, position=(100 ; 368)} ->> x=100, y=370
+VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+Clark {horizontal=0.0, vertical=15.944304194879692, position=(100 ; 376)} ->> x=100, y=370
 VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=8.66909669129481, vertical=-0.7, position=(156 ; 252)} ->> x=150, y=120
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=5.681213597687263, vertical=0.0, position=(160 ; 252)} ->> x=150, y=120
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=2.800523127830896, vertical=0.0, position=(162 ; 252)} ->> x=150, y=120
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-0.019084196642893403, vertical=0.0, position=(163 ; 252)} ->> x=150, y=120
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-1.2190832861264895, vertical=0.0, position=(163 ; 252)} ->> x=150, y=120
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-2.4153678759802073, vertical=0.0, position=(162 ; 252)} ->> x=150, y=120
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-3.6007828710394145, vertical=0.0, position=(160 ; 252)} ->> x=150, y=120
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-4.768368777828488, vertical=0.0, position=(158 ; 252)} ->> x=150, y=120
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-5.911525425825063, vertical=0.0, position=(155 ; 252)} ->> x=150, y=120
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-7.024160093674623, vertical=0.0, position=(152 ; 252)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-6.100813031120695, vertical=-0.7, position=(149 ; 252)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-5.207763232018965, vertical=-1.3987749999999999, position=(146 ; 251)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-2.339961237317043, vertical=-0.5938835712484374, position=(144 ; 251)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=0.47372730916332273, vertical=0.0, position=(144 ; 251)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=1.673166265254705, vertical=0.0, position=(145 ; 251)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=2.866167551876739, vertical=0.0, position=(146 ; 251)} ->> x=150, y=120
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=4.045630260788161, vertical=0.0, position=(148 ; 251)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=3.2047124502706485, vertical=-0.7, position=(150 ; 251)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=2.3790369955483492, vertical=-1.3987749999999999, position=(151 ; 250)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=1.5648874529828798, vertical=-2.0938835712484374, position=(152 ; 249)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.7587652711316216, vertical=-2.782922700223577, position=(153 ; 248)} ->> x=150, y=120
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-2.042674040710067, vertical=-1.9635610533350278, position=(153 ; 247)} ->> x=150, y=120
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-3.2322427476185904, vertical=-1.1539221233095924, position=(152 ; 246)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-2.406124264669758, vertical=-1.850593282642934, position=(151 ; 245)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-1.5916506797271763, vertical=-2.542031543898526, position=(150 ; 244)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-0.7853173000114864, vertical=-3.225876732973088, position=(149 ; 243)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-3.8998610312322453, position=(149 ; 241)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-4.5618387410749355, position=(149 ; 239)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-5.209812809326005, position=(149 ; 237)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-5.841957435555462, position=(149 ; 234)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-6.456636268858357, position=(149 ; 231)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-7.052415889087515, position=(149 ; 228)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-7.62807446440588, position=(149 ; 224)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-8.182605664319578, position=(149 ; 220)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-8.71521807567519, position=(149 ; 216)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-9.225330510408751, position=(149 ; 212)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-9.712563702843054, position=(149 ; 207)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-10.176728968638594, position=(149 ; 202)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-10.617814437385775, position=(149 ; 197)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-11.035969478818881, position=(149 ; 192)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-11.431487922975327, position=(149 ; 186)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-11.8047906326425, position=(149 ; 180)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-12.15640792794119, position=(149 ; 174)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-12.486962293664911, position=(149 ; 168)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-12.797151725356388, position=(149 ; 162)} ->> x=150, y=120
+Clark {horizontal=0.0, vertical=13.008752104232546, position=(100 ; 383)} ->> x=100, y=370
 VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.0, vertical=-12.587733994651908, position=(149 ; 156)} ->> x=150, y=120
+Clark {horizontal=0.0, vertical=10.78568302595911, position=(100 ; 389)} ->> x=100, y=370
 VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.0, vertical=-12.39160637685162, position=(149 ; 150)} ->> x=150, y=120
+Clark {horizontal=0.0, vertical=8.694855630117953, position=(100 ; 394)} ->> x=100, y=370
 VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.0, vertical=-12.207726605354544, position=(149 ; 144)} ->> x=150, y=120
+Clark {horizontal=0.0, vertical=6.705854344046468, position=(100 ; 398)} ->> x=100, y=370
 VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.0, vertical=-12.035155133176842, position=(149 ; 138)} ->> x=150, y=120
+Clark {horizontal=0.0, vertical=4.793433137837551, position=(100 ; 401)} ->> x=100, y=370
 VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.0, vertical=-11.87304273547776, position=(149 ; 132)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
-Clark {horizontal=0.0, vertical=-12.720619875981557, position=(149 ; 126)} ->> x=150, y=120
-VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
-Clark {horizontal=0.0, vertical=-13.516084450908513, position=(149 ; 119)} ->> x=150, y=120
+Clark {horizontal=0.0, vertical=2.9359906347202536, position=(100 ; 403)} ->> x=100, y=370
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=1.114440532202341, position=(100 ; 404)} ->> x=100, y=370
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-0.6886644120471976, position=(100 ; 404)} ->> x=100, y=370
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-0.8874787653661468, position=(100 ; 404)} ->> x=100, y=370
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-1.0855097189687073, position=(100 ; 404)} ->> x=100, y=370
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-1.2825638905937684, position=(100 ; 403)} ->> x=100, y=370
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-1.4784514652601308, position=(100 ; 402)} ->> x=100, y=370
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-1.672986918422306, position=(100 ; 401)} ->> x=100, y=370
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-1.8659897053492758, position=(100 ; 400)} ->> x=100, y=370
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-2.057284911398102, position=(100 ; 399)} ->> x=100, y=370
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-2.2467038583814363, position=(100 ; 398)} ->> x=100, y=370
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-2.4340846628132713, position=(100 ; 397)} ->> x=100, y=370
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-2.6192727424489144, position=(100 ; 396)} ->> x=100, y=370
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-2.8021212682005747, position=(100 ; 395)} ->> x=100, y=370
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-2.98249155919632, position=(100 ; 394)} ->> x=100, y=370
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-3.1602534194446266, position=(100 ; 392)} ->> x=100, y=370
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-3.335285415256848, position=(100 ; 390)} ->> x=100, y=370
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-3.507475093253785, position=(100 ; 388)} ->> x=100, y=370
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-3.676719139429296, position=(100 ; 386)} ->> x=100, y=370
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-3.8429234803536816, position=(100 ; 384)} ->> x=100, y=370
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-4.006003328164048, position=(100 ; 382)} ->> x=100, y=370
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-4.165883171500894, position=(100 ; 380)} ->> x=100, y=370
+VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=0.0, vertical=-4.822496715004409, position=(100 ; 378)} ->> x=100, y=370
+VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=0.0, vertical=-5.464355528588838, position=(100 ; 375)} ->> x=100, y=370
+VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=0.0, vertical=-6.089707575231789, position=(100 ; 372)} ->> x=100, y=370
+VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+Clark {horizontal=0.0, vertical=-5.196996229352201, position=(100 ; 369)} ->> x=100, y=370
 Removing target
 VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
-Clark {horizontal=0.0, vertical=-12.259373103698286, position=(149 ; 113)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.7, vertical=-11.083642531459084, position=(149 ; 107)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=1.3987749999999999, vertical=-9.976524702046163, position=(150 ; 102)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=2.0938835712484374, vertical=-8.92769708921982, position=(151 ; 97)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=2.782922700223577, vertical=-7.928437650927659, position=(152 ; 93)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=3.463561053335028, vertical=-6.971287341966041, position=(154 ; 89)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=4.133570415409579, vertical=-6.049790223955401, position=(156 ; 86)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=4.790854404461706, vertical=-5.158290319570735, position=(158 ; 83)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=5.433473689649831, vertical=-4.291770422018292, position=(161 ; 81)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=6.0596670988095385, vertical=-3.4457221886300142, position=(164 ; 79)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=6.667868185438551, vertical=-2.616039685126971, position=(167 ; 77)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=7.256717020092593, vertical=-1.7989305260415729, position=(170 ; 76)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=7.825067165318339, vertical=-0.9908401484477624, position=(174 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=8.37198797496398, vertical=-0.18838573794832236, position=(178 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=8.896762518331627, vertical=0.0, position=(182 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=9.398881560062652, vertical=0.0, position=(187 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=9.878034123612437, vertical=0.0, position=(192 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=10.334095228244308, vertical=0.0, position=(197 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=10.767111417778255, vertical=0.0, position=(202 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=11.177284697071126, vertical=0.0, position=(207 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=11.564955464072675, vertical=0.0, position=(213 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=11.930584976857714, vertical=0.0, position=(219 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=12.274737832132656, vertical=0.0, position=(225 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=12.598064860013684, vertical=0.0, position=(231 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=12.901286764470905, vertical=0.0, position=(237 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=13.185178764023124, vertical=0.0, position=(244 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=13.450556416425009, vertical=0.0, position=(251 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=13.698262746646428, vertical=0.0, position=(258 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=13.929156740956024, vertical=0.0, position=(265 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=14.144103222170722, vertical=0.0, position=(272 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=14.343964082272171, vertical=0.0, position=(279 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=14.529590818288385, vertical=0.0, position=(286 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=14.70181829492116, vertical=0.0, position=(293 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=14.861459641978964, vertical=0.0, position=(300 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=15.00930218525354, vertical=0.0, position=(307 ; 75)} ->> x=350, y=300
+Clark {horizontal=0.0, vertical=-4.329474304832448, position=(100 ; 367)} ->> x=150, y=120
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=1.2, vertical=-3.4826134354419374, position=(100 ; 365)} ->> x=150, y=120
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=2.3964, vertical=-2.652291944590136, position=(101 ; 363)} ->> x=150, y=120
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=3.5820431675999997, vertical=-1.8347053131917916, position=(102 ; 362)} ->> x=150, y=120
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=4.7499655844636255, vertical=-1.026289954226156, position=(104 ; 361)} ->> x=150, y=120
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=5.893560151829654, vertical=-0.2236567765507922, position=(107 ; 361)} ->> x=150, y=120
 VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=14.6461043050329, vertical=0.0, position=(314 ; 75)} ->> x=350, y=300
+Clark {horizontal=6.006725023671567, vertical=0.0, position=(110 ; 361)} ->> x=150, y=120
 VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=14.309833376748141, vertical=0.0, position=(321 ; 75)} ->> x=350, y=300
+Clark {horizontal=6.116523159896562, vertical=0.0, position=(113 ; 361)} ->> x=150, y=120
 VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=13.997905048572404, vertical=0.0, position=(328 ; 75)} ->> x=350, y=300
+Clark {horizontal=6.222993520982684, vertical=0.0, position=(116 ; 361)} ->> x=150, y=120
 VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=13.708051684200282, vertical=0.0, position=(335 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=14.438274981758516, vertical=0.0, position=(342 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=15.117115520636332, vertical=0.0, position=(349 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=13.745797566475673, vertical=0.7, position=(356 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=10.473430189629351, vertical=0.0, position=(362 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=7.399198339786752, vertical=0.0, position=(366 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=5.462327999607995, vertical=0.0, position=(369 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=3.587735431669741, vertical=0.0, position=(371 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=1.755555817850595, vertical=0.0, position=(372 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-0.05214912272337768, vertical=0.0, position=(372 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-0.25214232389587554, vertical=0.0, position=(372 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-0.4519833845171265, vertical=0.0, position=(372 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-0.6514726620674276, vertical=0.0, position=(372 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-0.8504116204938745, vertical=0.0, position=(372 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-1.0486036206831968, vertical=0.0, position=(372 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-1.245854696799922, vertical=0.0, position=(371 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-1.4419743119860757, vertical=0.0, position=(370 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-1.6367760871950066, vertical=0.0, position=(369 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-1.8300784972959732, vertical=0.0, position=(368 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-2.0217055290303105, vertical=0.0, position=(367 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-2.211487295915031, vertical=0.0, position=(366 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-2.399260605765047, vertical=0.0, position=(365 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-3.5848694771291068, vertical=0.0, position=(364 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-4.752741254208977, vertical=0.0, position=(362 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-5.896269880635327, vertical=0.0, position=(359 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-7.009354884372108, vertical=0.0, position=(356 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-8.08652724463443, vertical=0.0, position=(352 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-7.123047437438893, vertical=0.7, position=(348 ; 75)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-6.196202925448881, vertical=1.3987749999999999, position=(345 ; 76)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-3.3002205987155273, vertical=0.5938835712484374, position=(343 ; 76)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-0.4729919587150615, vertical=0.0, position=(342 ; 76)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=2.3275673447674614, vertical=0.0, position=(342 ; 76)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=3.514023420406392, vertical=0.0, position=(343 ; 76)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=4.68315251890848, vertical=0.0, position=(345 ; 76)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=5.828322725120083, vertical=0.0, position=(348 ; 76)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=4.943399360649705, vertical=0.7, position=(351 ; 76)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=4.082306367552525, vertical=1.3987749999999999, position=(353 ; 77)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=1.2406433043561256, vertical=0.5938835712484374, position=(354 ; 77)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-1.5632046851654837, vertical=0.0, position=(354 ; 77)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-2.7570956629461754, vertical=0.0, position=(353 ; 77)} ->> x=350, y=300
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-3.9380917217095837, vertical=0.0, position=(351 ; 77)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-3.0993203056880896, vertical=0.7, position=(349 ; 77)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-2.2753058397949633, vertical=1.3987749999999999, position=(348 ; 78)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-1.4623632981334507, vertical=2.0938835712484374, position=(347 ; 79)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=1.342982967905869, vertical=1.282922700223577, position=(347 ; 80)} ->> x=350, y=300
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=2.5384739597756556, vertical=0.47880797358670457, position=(348 ; 80)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=1.722364334664508, vertical=1.178234830897779, position=(349 ; 80)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.9149479874111971, vertical=1.8747642376059273, position=(350 ; 81)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.11285516286202757, vertical=2.565977385239412, position=(350 ; 82)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=3.249516785385512, position=(350 ; 83)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=3.9231183870392563, position=(350 ; 85)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=4.5846412423424425, position=(350 ; 87)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=5.232093904039974, position=(350 ; 89)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=5.8636568874882435, position=(350 ; 92)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=6.477700707252772, position=(350 ; 95)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=7.0727991911209145, position=(350 ; 98)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=7.647737970126113, position=(350 ; 102)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=8.201518229976841, position=(350 ; 106)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=8.733355976785235, position=(350 ; 110)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=9.242677210242109, position=(350 ; 114)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=9.729109505210287, position=(350 ; 119)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=10.192470575799355, position=(350 ; 124)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=10.632754434703015, position=(350 ; 129)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=11.050115767531274, position=(350 ; 134)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=11.444853121341666, position=(350 ; 140)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=11.817391463918955, position=(350 ; 146)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=12.168264611390194, position=(350 ; 152)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=12.498097952258167, position=(350 ; 158)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=12.807591821197567, position=(350 ; 164)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=13.09750580055155, position=(350 ; 170)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=13.368644155062846, position=(350 ; 177)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=13.621842538701106, position=(350 ; 184)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=13.857956053328188, position=(350 ; 191)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=14.077848688388249, position=(350 ; 198)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=14.282384129155362, position=(350 ; 205)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=14.47241788812349, position=(350 ; 212)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=14.648790689302297, position=(350 ; 219)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=14.812323017654823, position=(350 ; 226)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=14.963810734706456, position=(350 ; 233)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=15.104021655446166, position=(350 ; 241)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=15.2336929800257, position=(350 ; 249)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=15.353529475501489, position=(350 ; 257)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.0, vertical=14.964202307113757, position=(350 ; 265)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.0, vertical=14.604383930393185, position=(350 ; 272)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.0, vertical=14.271163855427368, position=(350 ; 279)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.0, vertical=13.961998560956227, position=(350 ; 286)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
-Clark {horizontal=0.0, vertical=14.674655051415867, position=(350 ; 293)} ->> x=350, y=300
-VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
-Clark {horizontal=0.0, vertical=15.336291299220754, position=(350 ; 301)} ->> x=350, y=300
+Clark {horizontal=6.326179400077203, vertical=0.0, position=(119 ; 361)} ->> x=150, y=120
+VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=6.4261280355723, vertical=0.0, position=(122 ; 361)} ->> x=150, y=120
+VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=6.522890231748379, vertical=0.0, position=(125 ; 361)} ->> x=150, y=120
+VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=6.616519989309783, vertical=0.0, position=(128 ; 361)} ->> x=150, y=120
+VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=6.707074147387443, vertical=0.0, position=(131 ; 361)} ->> x=150, y=120
+VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=6.794612038341061, vertical=0.0, position=(134 ; 361)} ->> x=150, y=120
+VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=6.879195156462138, vertical=0.0, position=(137 ; 361)} ->> x=150, y=120
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=7.4608868414604075, vertical=0.0, position=(141 ; 361)} ->> x=150, y=120
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=8.021724760307714, vertical=0.0, position=(145 ; 361)} ->> x=150, y=120
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=8.56085458998238, vertical=0.0, position=(149 ; 361)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=7.5776340117053245, vertical=-1.2, position=(153 ; 361)} ->> x=150, y=120
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=5.134082668666942, vertical=-0.39639999999999986, position=(156 ; 361)} ->> x=150, y=120
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=2.768185656545176, vertical=0.0, position=(158 ; 361)} ->> x=150, y=120
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=0.4490285269724197, vertical=0.0, position=(159 ; 361)} ->> x=150, y=120
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-1.851475539572668, vertical=0.0, position=(159 ; 361)} ->> x=150, y=120
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-2.5429056353885784, vertical=0.0, position=(158 ; 361)} ->> x=150, y=120
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-3.2267397127123507, vertical=0.0, position=(157 ; 361)} ->> x=150, y=120
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-3.900710089778363, vertical=0.0, position=(155 ; 361)} ->> x=150, y=120
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-4.5626712417671165, vertical=0.0, position=(153 ; 361)} ->> x=150, y=120
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-5.2106263196159945, vertical=0.0, position=(151 ; 361)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=-4.342749753009307, vertical=-1.2, position=(149 ; 361)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=-3.495601064466151, vertical=-2.3964, position=(147 ; 360)} ->> x=150, y=120
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-1.1650529974614083, vertical=-1.5820431675999997, position=(146 ; 359)} ->> x=150, y=120
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=1.1383403737558262, vertical=-0.7757860161396251, position=(146 ; 358)} ->> x=150, y=120
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=1.8351008267395197, vertical=0.0, position=(147 ; 358)} ->> x=150, y=120
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=2.5266818391287695, vertical=0.0, position=(148 ; 358)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=1.7107215363383115, vertical=-1.2, position=(149 ; 358)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.9034051159010822, vertical=-2.3964, position=(150 ; 357)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.1013647638924915, vertical=-3.5820431675999997, position=(150 ; 356)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-4.7499655844636255, position=(150 ; 354)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-5.893560151829654, position=(150 ; 351)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-7.006725023671567, position=(150 ; 348)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-8.083989534778205, position=(150 ; 344)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-9.120612317782196, position=(150 ; 340)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-10.112648395153995, position=(150 ; 335)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-11.056984251243968, position=(150 ; 330)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-11.951341999413325, position=(150 ; 324)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-12.794255560445972, position=(150 ; 318)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-13.585023122080965, position=(150 ; 311)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-14.32364098901228, position=(150 ; 304)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-15.010724261056998, position=(150 ; 297)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-15.647419653953285, position=(150 ; 289)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-16.235315299385977, position=(150 ; 281)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-16.776351642209786, position=(150 ; 273)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-17.2727367061521, position=(150 ; 264)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-17.726868122851965, position=(150 ; 255)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-18.141263489239503, position=(150 ; 246)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-18.518499886774467, position=(150 ; 237)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-18.8611627916333, position=(150 ; 228)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-19.17180413700207, position=(150 ; 218)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-19.452908952333146, position=(150 ; 208)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-19.70686978556374, position=(150 ; 198)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-19.935967993700828, position=(150 ; 188)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-20.142360944086168, position=(150 ; 178)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-20.328074183081547, position=(150 ; 168)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-20.49499768309938, position=(150 ; 158)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-19.644885358023757, position=(150 ; 148)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-18.880081556199016, position=(150 ; 138)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-18.1889378572772, position=(150 ; 129)} ->> x=150, y=120
+VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=0.0, vertical=-18.06184420633747, position=(150 ; 120)} ->> x=150, y=120
 Removing target
 VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
-Clark {horizontal=0.0, vertical=13.948286722184369, position=(350 ; 308)} ->> x=370, y=240
+Clark {horizontal=0.0, vertical=-16.446268666002453, position=(150 ; 111)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=1.2, vertical=-14.970069283416617, position=(150 ; 103)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=2.3964, vertical=-13.609811847540882, position=(151 ; 96)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=3.5820431675999997, vertical=-12.346744401227221, position=(152 ; 90)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=4.7499655844636255, vertical=-11.165639157954132, position=(154 ; 84)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=5.893560151829654, vertical=-10.053960413440036, position=(157 ; 79)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=7.006725023671567, vertical=-9.001255113452487, position=(160 ; 74)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=8.083989534778205, vertical=-7.9986986294088505, position=(164 ; 70)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=9.120612317782196, vertical=-7.038750679998583, position=(168 ; 66)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=10.112648395153995, vertical=-6.114890652160632, position=(173 ; 63)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=11.056984251243968, vertical=-5.221410932940929, position=(178 ; 60)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=11.951341999413325, vertical=-4.353253102614341, position=(184 ; 58)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=12.794255560445972, vertical=-3.5058760711757873, position=(190 ; 56)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=13.585023122080965, vertical=-2.6751481536096797, position=(197 ; 54)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=14.32364098901228, vertical=-1.8572571095002766, position=(204 ; 53)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=15.010724261056998, vertical=-1.0486335995733032, position=(211 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=15.647419653953285, vertical=-0.24588451850791793, position=(219 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=16.235315299385977, vertical=0.0, position=(227 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=16.776351642209786, vertical=0.0, position=(235 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=17.2727367061521, vertical=0.0, position=(244 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=17.726868122851965, vertical=0.0, position=(253 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=18.141263489239503, vertical=0.0, position=(262 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=18.518499886774467, vertical=0.0, position=(271 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=18.8611627916333, vertical=0.0, position=(280 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=19.17180413700207, vertical=0.0, position=(290 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=19.452908952333146, vertical=0.0, position=(300 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+Clark {horizontal=19.70686978556374, vertical=0.0, position=(310 ; 52)} ->> x=350, y=300
 VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.19999999999999996, vertical=12.661899965973706, position=(350 ; 315)} ->> x=370, y=240
+Clark {horizontal=18.935967993700828, vertical=0.0, position=(320 ; 52)} ->> x=350, y=300
 VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.3998999999999999, vertical=11.461090689102894, position=(350 ; 321)} ->> x=370, y=240
+Clark {horizontal=18.23954078405467, vertical=0.0, position=(329 ; 52)} ->> x=350, y=300
 VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.5995001999749999, vertical=10.332699189643291, position=(350 ; 326)} ->> x=370, y=240
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.7986016987505747, vertical=9.265787508284154, position=(350 ; 331)} ->> x=370, y=240
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.9970072870674564, vertical=8.251150462912467, position=(350 ; 335)} ->> x=370, y=240
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=1.1945222282412924, vertical=7.280946753008415, position=(351 ; 339)} ->> x=370, y=240
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=1.3909550198568859, vertical=6.348416288958055, position=(352 ; 342)} ->> x=370, y=240
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=1.5861181301887233, vertical=5.447660315513285, position=(353 ; 345)} ->> x=370, y=240
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=1.77982870338144, vertical=4.573467808230239, position=(354 ; 348)} ->> x=370, y=240
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=1.9719092278479886, vertical=3.7211762887479436, position=(355 ; 350)} ->> x=370, y=240
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=3.1621881628408084, vertical=2.886558406318094, position=(356 ; 352)} ->> x=370, y=240
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=4.337189577897782, vertical=2.0657278577353795, position=(358 ; 353)} ->> x=370, y=240
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=5.490161544311219, vertical=1.2550597787798194, position=(360 ; 354)} ->> x=370, y=240
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=6.614806859854634, vertical=0.4511218411590423, position=(363 ; 354)} ->> x=370, y=240
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=7.7054176853716845, vertical=0.0, position=(367 ; 354)} ->> x=370, y=240
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=8.756984031106587, vertical=0.0, position=(371 ; 354)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=7.7652721078039475, vertical=-0.7, position=(375 ; 354)} ->> x=370, y=240
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=4.814523480533353, vertical=0.0, position=(378 ; 354)} ->> x=370, y=240
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=1.9565743896718355, vertical=0.0, position=(380 ; 354)} ->> x=370, y=240
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-0.8529960686839639, vertical=0.0, position=(380 ; 354)} ->> x=370, y=240
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-2.051177062950988, vertical=0.0, position=(379 ; 354)} ->> x=370, y=240
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-3.2406587445920474, vertical=0.0, position=(378 ; 354)} ->> x=370, y=240
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-4.414404071844795, vertical=0.0, position=(376 ; 354)} ->> x=370, y=240
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-5.565686663570995, vertical=0.0, position=(374 ; 354)} ->> x=370, y=240
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-6.688244493478365, vertical=0.0, position=(371 ; 354)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-5.776412957467006, vertical=-0.7, position=(368 ; 354)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-4.892995590829024, vertical=-1.3987749999999999, position=(365 ; 353)} ->> x=370, y=240
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-2.033142076199343, vertical=-0.5938835712484374, position=(363 ; 353)} ->> x=370, y=240
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=0.7771920905556873, vertical=0.0, position=(363 ; 353)} ->> x=370, y=240
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=1.9756820216916315, vertical=0.0, position=(364 ; 353)} ->> x=370, y=240
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=3.1659237230645427, vertical=0.0, position=(365 ; 353)} ->> x=370, y=240
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=4.340866040513886, vertical=0.0, position=(367 ; 353)} ->> x=370, y=240
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=5.493758245559668, vertical=0.0, position=(369 ; 353)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=4.618304796408031, vertical=-0.7, position=(372 ; 353)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=3.7649829484267174, vertical=-1.3987749999999999, position=(374 ; 352)} ->> x=370, y=240
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=0.9295452069218575, vertical=-0.5938835712484374, position=(375 ; 352)} ->> x=370, y=240
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-1.8726149288074212, vertical=0.0, position=(375 ; 352)} ->> x=370, y=240
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-3.0638482121284403, vertical=0.0, position=(374 ; 352)} ->> x=370, y=240
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-4.240380297461034, vertical=0.0, position=(372 ; 352)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-3.395428234793294, vertical=-0.7, position=(370 ; 352)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-2.5666059025492154, vertical=-1.3987749999999999, position=(369 ; 351)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-1.7501372379017142, vertical=-2.0938835712484374, position=(368 ; 350)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-0.9424797870229885, vertical=-2.782922700223577, position=(367 ; 349)} ->> x=370, y=240
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=1.859740883349379, vertical=-1.9635610533350278, position=(367 ; 348)} ->> x=370, y=240
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=3.051094292966376, vertical=-1.1539221233095924, position=(368 ; 347)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=2.227821352004946, vertical=-1.850593282642934, position=(369 ; 346)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=1.4154133820638233, vertical=-2.542031543898526, position=(370 ; 345)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.6104048944585099, vertical=-3.225876732973088, position=(371 ; 344)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-3.8998610312322453, position=(371 ; 342)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-4.5618387410749355, position=(371 ; 340)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-5.209812809326005, position=(371 ; 338)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-5.841957435555462, position=(371 ; 335)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-6.456636268858357, position=(371 ; 332)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-7.052415889087515, position=(371 ; 329)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-7.62807446440588, position=(371 ; 325)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-8.182605664319578, position=(371 ; 321)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-8.71521807567519, position=(371 ; 317)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-9.225330510408751, position=(371 ; 313)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-9.712563702843054, position=(371 ; 308)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-10.176728968638594, position=(371 ; 303)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-10.617814437385775, position=(371 ; 298)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-11.035969478818881, position=(371 ; 293)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-11.431487922975327, position=(371 ; 287)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-11.8047906326425, position=(371 ; 281)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.0, vertical=-11.65640792794119, position=(371 ; 275)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.0, vertical=-11.516728313484764, position=(371 ; 269)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.0, vertical=-11.38514073586821, position=(371 ; 263)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.0, vertical=-11.261087161929396, position=(371 ; 257)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.0, vertical=-11.144056951757968, position=(371 ; 251)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
-Clark {horizontal=0.0, vertical=-12.033581938397905, position=(371 ; 245)} ->> x=370, y=240
-VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
-Clark {horizontal=0.0, vertical=-12.871564202727564, position=(371 ; 239)} ->> x=370, y=240
+Clark {horizontal=17.60783866402169, vertical=0.0, position=(338 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=17.532748707976147, vertical=0.0, position=(347 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=17.46425551483355, vertical=0.0, position=(356 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=14.401754963115064, vertical=0.0, position=(364 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=12.08322859807104, vertical=0.0, position=(371 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=9.918217564687936, vertical=0.0, position=(377 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=7.872289965536725, vertical=0.0, position=(381 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=5.917357592282999, vertical=0.0, position=(384 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=4.029819790095625, vertical=0.0, position=(386 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=2.189221171244009, vertical=0.0, position=(388 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.37723944790245145, vertical=0.0, position=(389 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-1.423116326100183, vertical=0.0, position=(389 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-1.6180531759061507, vertical=0.0, position=(388 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-1.8115079357060009, vertical=0.0, position=(387 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-2.0033040332031864, vertical=0.0, position=(386 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-2.1932709655795657, vertical=0.0, position=(385 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-2.3812448717584296, vertical=0.0, position=(384 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-2.56706905391024, vertical=0.0, position=(383 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-2.750594445091381, vertical=0.0, position=(382 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-2.931680020587962, vertical=0.0, position=(381 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-3.1101931512301757, vertical=0.0, position=(379 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-3.286009897635278, vertical=0.0, position=(377 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-3.4590152450168854, vertical=0.0, position=(375 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-3.629103278853737, vertical=0.0, position=(373 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-3.7961773023322696, vertical=0.0, position=(371 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-3.9601498970554125, vertical=0.0, position=(369 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-4.120942929037542, vertical=0.0, position=(367 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-4.278487502476581, vertical=0.0, position=(365 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-4.43272386420446, vertical=0.0, position=(363 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-4.583601262063741, vertical=0.0, position=(361 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=-4.73107776073976, vertical=0.0, position=(359 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-5.375120018794345, vertical=0.0, position=(356 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-6.002890230753235, vertical=0.0, position=(353 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-6.612803502947053, vertical=0.0, position=(350 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=-5.703480577525581, vertical=1.2, position=(347 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-3.3221563507800522, vertical=0.39639999999999986, position=(345 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-0.9945645437324817, vertical=0.0, position=(344 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=1.3079083528466429, vertical=0.0, position=(344 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=2.0036317921980276, vertical=0.0, position=(345 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=2.6935954413012606, vertical=0.0, position=(346 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=3.375456800297763, vertical=0.0, position=(348 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=2.5469725287710716, vertical=1.2, position=(349 ; 52)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=1.7307548561152855, vertical=2.3964, position=(350 ; 53)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.9232660751853689, vertical=3.5820431675999997, position=(351 ; 54)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.12113502457139835, vertical=4.7499655844636255, position=(351 ; 56)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=5.893560151829654, position=(351 ; 59)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=7.006725023671567, position=(351 ; 62)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=8.083989534778205, position=(351 ; 66)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=9.120612317782196, position=(351 ; 70)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=10.112648395153995, position=(351 ; 75)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=11.056984251243968, position=(351 ; 80)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=11.951341999413325, position=(351 ; 86)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=12.794255560445972, position=(351 ; 92)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=13.585023122080965, position=(351 ; 99)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=14.32364098901228, position=(351 ; 106)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=15.010724261056998, position=(351 ; 113)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=15.647419653953285, position=(351 ; 121)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=16.235315299385977, position=(351 ; 129)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=16.776351642209786, position=(351 ; 137)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=17.2727367061521, position=(351 ; 146)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=17.726868122851965, position=(351 ; 155)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=18.141263489239503, position=(351 ; 164)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=18.518499886774467, position=(351 ; 173)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=18.8611627916333, position=(351 ; 182)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=19.17180413700207, position=(351 ; 192)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=19.452908952333146, position=(351 ; 202)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=19.70686978556374, position=(351 ; 212)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=19.935967993700828, position=(351 ; 222)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=20.142360944086168, position=(351 ; 232)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=20.328074183081547, position=(351 ; 242)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=20.49499768309938, position=(351 ; 252)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=20.644885358023757, position=(351 ; 262)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=19.779357129408897, position=(351 ; 272)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=19.001299708277152, position=(351 ; 282)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=18.29867623176772, position=(351 ; 291)} ->> x=350, y=300
+VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=0.0, vertical=18.161572352180066, position=(351 ; 300)} ->> x=350, y=300
 Removing target
 VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
-Clark {horizontal=0.0, vertical=-11.65737129016522, position=(371 ; 233)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-0.7, vertical=-10.517635526673299, position=(371 ; 227)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-1.3987749999999999, vertical=-9.441083883993448, position=(370 ; 222)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-2.0938835712484374, vertical=-8.418248721731945, position=(369 ; 218)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-2.782922700223577, vertical=-7.441081442879591, position=(368 ; 214)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-3.463561053335028, vertical=-6.502657210280674, position=(366 ; 211)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-4.133570415409579, vertical=-5.596945833294636, position=(364 ; 208)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-4.790854404461706, vertical=-4.718631326642551, position=(362 ; 205)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-5.433473689649831, vertical=-3.8629676226506193, position=(359 ; 203)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-6.0596670988095385, vertical=-3.0256613255165017, position=(356 ; 201)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-6.667868185438551, vertical=-2.202774759374686, position=(353 ; 200)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-7.256717020092593, vertical=-1.3906442177733405, position=(350 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-7.825067165318339, vertical=-0.5858094894222744, position=(346 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-8.37198797496398, vertical=0.0, position=(342 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-8.896762518331627, vertical=0.0, position=(338 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-9.398881560062652, vertical=0.0, position=(333 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-9.878034123612437, vertical=0.0, position=(328 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-10.334095228244308, vertical=0.0, position=(323 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-10.767111417778255, vertical=0.0, position=(318 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-11.177284697071126, vertical=0.0, position=(313 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-11.564955464072675, vertical=0.0, position=(307 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-11.930584976857714, vertical=0.0, position=(301 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-12.274737832132656, vertical=0.0, position=(295 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-12.598064860013684, vertical=0.0, position=(289 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-12.901286764470905, vertical=0.0, position=(283 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-13.185178764023124, vertical=0.0, position=(276 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-13.450556416425009, vertical=0.0, position=(269 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-13.698262746646428, vertical=0.0, position=(262 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-13.929156740956024, vertical=0.0, position=(255 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-14.144103222170722, vertical=0.0, position=(248 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-14.343964082272171, vertical=0.0, position=(241 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-14.529590818288385, vertical=0.0, position=(234 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-14.70181829492116, vertical=0.0, position=(227 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-14.861459641978964, vertical=0.0, position=(220 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-15.00930218525354, vertical=0.0, position=(213 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-15.1461043050329, vertical=0.0, position=(205 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-15.27259311598556, vertical=0.0, position=(197 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-15.389462864769435, vertical=0.0, position=(189 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-15.49737394660414, vertical=0.0, position=(181 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-15.596952448501929, vertical=0.0, position=(173 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-15.688790134299854, vertical=0.0, position=(165 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-15.773444794604593, vertical=0.0, position=(157 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-15.851440892883495, vertical=0.0, position=(149 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-15.923270446932047, vertical=0.0, position=(141 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-15.489394092616699, vertical=0.0, position=(133 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-15.089590769225726, vertical=0.0, position=(125 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-14.72035139526897, vertical=0.0, position=(118 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-14.378629532268477, vertical=0.0, position=(111 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-15.061767064202918, vertical=0.0, position=(104 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-15.69462499646215, vertical=0.0, position=(96 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-12.278821862013213, vertical=0.0, position=(89 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-9.10189819621558, vertical=0.0, position=(84 ; 199)} ->> x=100, y=370
+Clark {horizontal=0.0, vertical=16.536965576421387, position=(351 ; 309)} ->> x=370, y=240
 VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-7.094786819279898, vertical=0.0, position=(80 ; 199)} ->> x=100, y=370
+Clark {horizontal=0.19999999999999996, vertical=15.053287500232022, position=(351 ; 317)} ->> x=370, y=240
 VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-5.168946819252328, vertical=0.0, position=(77 ; 199)} ->> x=100, y=370
+Clark {horizontal=0.3998999999999999, vertical=13.686783838820418, position=(351 ; 324)} ->> x=370, y=240
 VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-3.3021517912016813, vertical=0.0, position=(75 ; 199)} ->> x=100, y=370
+Clark {horizontal=0.5995001999749999, vertical=12.418463709193928, position=(351 ; 331)} ->> x=370, y=240
 VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-1.47489127507134, vertical=0.0, position=(74 ; 199)} ->> x=100, y=370
+Clark {horizontal=0.7986016987505747, vertical=11.23291810695251, position=(351 ; 337)} ->> x=370, y=240
 VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.3305469856118639, vertical=0.0, position=(74 ; 199)} ->> x=100, y=370
+Clark {horizontal=0.9970072870674564, vertical=10.117471983958756, position=(351 ; 342)} ->> x=370, y=240
 VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.5302738323376212, vertical=0.0, position=(74 ; 199)} ->> x=100, y=370
+Clark {horizontal=1.1945222282412924, vertical=9.06156388559328, position=(352 ; 347)} ->> x=370, y=240
 VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.7295708564944661, vertical=0.0, position=(74 ; 199)} ->> x=100, y=370
+Clark {horizontal=1.3909550198568859, vertical=8.056284035461559, position=(353 ; 351)} ->> x=370, y=240
 VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.9282401724078508, vertical=0.0, position=(74 ; 199)} ->> x=100, y=370
+Clark {horizontal=1.5861181301887233, vertical=7.0940247543114765, position=(354 ; 355)} ->> x=370, y=240
 VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=1.1260860978636713, vertical=0.0, position=(75 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=1.3229159231141667, vertical=0.0, position=(76 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=1.518540656765094, vertical=0.0, position=(77 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=1.7127757424494727, vertical=0.0, position=(78 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=1.9054417405896644, vertical=0.0, position=(79 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=2.096364970022711, vertical=0.0, position=(80 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=2.285378104803865, vertical=0.0, position=(81 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=2.4723207220990724, vertical=0.0, position=(82 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=2.657039797716771, vertical=0.0, position=(83 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=2.839390146500144, vertical=0.0, position=(84 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=3.0192348054900386, vertical=0.0, position=(85 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=4.1964453584633326, vertical=0.0, position=(87 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=5.352419974346912, vertical=0.0, position=(89 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=6.480798975392442, vertical=0.0, position=(92 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=7.575797086993823, vertical=0.0, position=(96 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=8.632315333235564, vertical=0.0, position=(100 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=7.6460231632045295, vertical=0.7, position=(104 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=4.699868987673879, vertical=0.0, position=(107 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=1.8446470664206323, vertical=0.0, position=(109 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-0.9638597405785032, vertical=0.0, position=(109 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-2.161537176579733, vertical=0.0, position=(108 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-3.349856569165392, vertical=0.0, position=(107 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-4.521802721580441, vertical=0.0, position=(105 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-5.67068597194821, vertical=0.0, position=(102 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-4.790294273467084, vertical=0.7, position=(99 ; 199)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-3.932926975401055, vertical=1.3987749999999999, position=(97 ; 200)} ->> x=100, y=370
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-1.0942571889164618, vertical=0.5938835712484374, position=(96 ; 200)} ->> x=100, y=370
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=1.7087363080722766, vertical=0.0, position=(96 ; 200)} ->> x=100, y=370
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=2.9014368586459653, vertical=0.0, position=(97 ; 200)} ->> x=100, y=370
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=4.080391019034192, vertical=0.0, position=(99 ; 200)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=3.2387670418636545, vertical=0.7, position=(101 ; 200)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=2.412543011984999, vertical=1.3987749999999999, position=(102 ; 201)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=1.597992102523305, vertical=2.0938835712484374, position=(103 ; 202)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-1.208391844376012, vertical=1.282922700223577, position=(103 ; 203)} ->> x=100, y=370
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-2.404741317252126, vertical=0.47880797358670457, position=(102 ; 203)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-1.590284365244877, vertical=1.178234830897779, position=(101 ; 203)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-0.7839618543390212, vertical=1.8747642376059273, position=(100 ; 204)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=2.565977385239412, position=(100 ; 205)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=3.249516785385512, position=(100 ; 206)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=3.9231183870392563, position=(100 ; 208)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=4.5846412423424425, position=(100 ; 210)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=5.232093904039974, position=(100 ; 212)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=5.8636568874882435, position=(100 ; 215)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=6.477700707252772, position=(100 ; 218)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=7.0727991911209145, position=(100 ; 221)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=7.647737970126113, position=(100 ; 225)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=8.201518229976841, position=(100 ; 229)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=8.733355976785235, position=(100 ; 233)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=9.242677210242109, position=(100 ; 237)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=9.729109505210287, position=(100 ; 242)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=10.192470575799355, position=(100 ; 247)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=10.632754434703015, position=(100 ; 252)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=11.050115767531274, position=(100 ; 257)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=11.444853121341666, position=(100 ; 263)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=11.817391463918955, position=(100 ; 269)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=12.168264611390194, position=(100 ; 275)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=12.498097952258167, position=(100 ; 281)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=12.807591821197567, position=(100 ; 287)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=13.09750580055155, position=(100 ; 293)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=13.368644155062846, position=(100 ; 300)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=13.621842538701106, position=(100 ; 307)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=13.857956053328188, position=(100 ; 314)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=14.077848688388249, position=(100 ; 321)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=14.282384129155362, position=(100 ; 328)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.0, vertical=13.97241788812349, position=(100 ; 335)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.0, vertical=13.684346734022606, position=(100 ; 342)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.0, vertical=13.416193370180217, position=(100 ; 349)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.0, vertical=13.166207758815048, position=(100 ; 356)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
-Clark {horizontal=0.0, vertical=13.932835191944344, position=(100 ; 363)} ->> x=100, y=370
-VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
-Clark {horizontal=0.0, vertical=14.647525450729637, position=(100 ; 370)} ->> x=100, y=370
+Clark {horizontal=1.77982870338144, vertical=6.168211786274517, position=(355 ; 358)} ->> x=370, y=240
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=2.4719092278479886, vertical=5.273094694673677, position=(356 ; 361)} ->> x=370, y=240
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=3.1566333897711885, vertical=4.403580875526188, position=(357 ; 363)} ->> x=370, y=240
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=3.8317225538776425, vertical=3.5551020642079383, position=(359 ; 365)} ->> x=370, y=240
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=4.495017309552906, vertical=2.7235051874905993, position=(361 ; 367)} ->> x=370, y=240
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=5.144504358019955, vertical=1.9049614862248787, position=(363 ; 368)} ->> x=370, y=240
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=5.77833954529574, vertical=1.0958892905648785, position=(366 ; 369)} ->> x=370, y=240
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=6.394866525543918, vertical=0.2928868572219415, position=(369 ; 369)} ->> x=370, y=240
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=5.4926307308451126, vertical=-2.5073275995558917, position=(372 ; 368)} ->> x=370, y=240
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=4.6172082499815525, vertical=-3.691610870327155, position=(375 ; 366)} ->> x=370, y=240
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=2.263911719922308, vertical=-2.857540893282361, position=(377 ; 364)} ->> x=370, y=240
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-0.04890152076669585, vertical=-2.0371270433904085, position=(378 ; 363)} ->> x=370, y=240
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-0.7488955423698626, vertical=-1.226752326913127, position=(378 ; 362)} ->> x=370, y=240
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-1.447493431036409, vertical=-0.42299002373416006, position=(377 ; 362)} ->> x=370, y=240
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-2.142255337954175, vertical=0.0, position=(376 ; 362)} ->> x=370, y=240
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-2.830782193121692, vertical=0.0, position=(375 ; 362)} ->> x=370, y=240
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-3.510748873559455, vertical=0.0, position=(373 ; 362)} ->> x=370, y=240
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-4.179935479426457, vertical=0.0, position=(371 ; 362)} ->> x=370, y=240
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=-3.336255827896037, vertical=-1.2, position=(369 ; 362)} ->> x=370, y=240
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=-2.508429320523111, vertical=-2.3964, position=(368 ; 361)} ->> x=370, y=240
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=-1.692698776382961, vertical=-3.5820431675999997, position=(367 ; 360)} ->> x=370, y=240
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=0.6144642964859597, vertical=-2.749965584463625, position=(367 ; 358)} ->> x=370, y=240
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=1.3135203805568196, vertical=-1.931059807674289, position=(367 ; 357)} ->> x=370, y=240
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=2.009207041081474, vertical=-1.1217373277222515, position=(368 ; 356)} ->> x=370, y=240
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=1.1991147587466457, vertical=-2.318591591141238, position=(369 ; 355)} ->> x=370, y=240
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.3955200682350356, vertical=-3.5051519237249606, position=(369 ; 354)} ->> x=370, y=240
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-4.674436698703978, position=(369 ; 352)} ->> x=370, y=240
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-5.819810802578502, position=(369 ; 349)} ->> x=370, y=240
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-6.935135308133978, position=(369 ; 346)} ->> x=370, y=240
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-8.01489505377866, position=(369 ; 342)} ->> x=370, y=240
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-9.054298696970946, position=(369 ; 338)} ->> x=370, y=240
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-10.049347884736022, position=(369 ; 333)} ->> x=370, y=240
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-10.9968744024649, position=(369 ; 328)} ->> x=370, y=240
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-11.894546285905932, position=(369 ; 322)} ->> x=370, y=240
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-12.740845707537035, position=(369 ; 316)} ->> x=370, y=240
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-13.535022834178873, position=(369 ; 309)} ->> x=370, y=240
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-14.277030726374514, position=(369 ; 302)} ->> x=370, y=240
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-14.96744671046991, position=(369 ; 295)} ->> x=370, y=240
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-15.607385557893018, position=(369 ; 287)} ->> x=370, y=240
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-16.1984093480112, position=(369 ; 279)} ->> x=370, y=240
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-15.742438184496859, position=(369 ; 271)} ->> x=370, y=240
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-15.322877284515096, position=(369 ; 263)} ->> x=370, y=240
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-14.935900863824324, position=(369 ; 255)} ->> x=370, y=240
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-14.578198027289353, position=(369 ; 248)} ->> x=370, y=240
+VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=0.0, vertical=-14.746888382982196, position=(369 ; 241)} ->> x=370, y=240
 Removing target
 VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
-Clark {horizontal=0.0, vertical=13.311150446155205, position=(100 ; 377)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.7, vertical=12.06818363065476, position=(100 ; 383)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=1.3987749999999999, vertical=10.904080990296752, position=(101 ; 389)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=2.0938835712484374, vertical=9.806833534689375, position=(102 ; 394)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=2.782922700223577, vertical=8.766398574746605, position=(103 ; 399)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=3.463561053335028, vertical=7.774274214818306, position=(105 ; 403)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=4.133570415409579, vertical=6.8231758659003345, position=(107 ; 407)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=4.790854404461706, vertical=5.906786543657822, position=(109 ; 410)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=5.433473689649831, vertical=5.01956122547698, position=(112 ; 413)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=6.0596670988095385, vertical=4.1565712382362, position=(115 ; 415)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=6.667868185438551, vertical=3.313378527089869, position=(118 ; 417)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=7.256717020092593, vertical=2.4859323339304185, position=(121 ; 418)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=7.825067165318339, vertical=1.6704826850082166, position=(125 ; 419)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=8.37198797496398, vertical=0.8635064040059359, position=(129 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=8.896762518331627, vertical=0.06164229573153768, position=(133 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=9.398881560062652, vertical=0.0, position=(138 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=9.878034123612437, vertical=0.0, position=(143 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=10.334095228244308, vertical=0.0, position=(148 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=10.767111417778255, vertical=0.0, position=(153 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=11.177284697071126, vertical=0.0, position=(158 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=11.564955464072675, vertical=0.0, position=(164 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=11.930584976857714, vertical=0.0, position=(170 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=12.274737832132656, vertical=0.0, position=(176 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=12.598064860013684, vertical=0.0, position=(182 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=12.901286764470905, vertical=0.0, position=(188 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=13.185178764023124, vertical=0.0, position=(195 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=13.450556416425009, vertical=0.0, position=(202 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=13.698262746646428, vertical=0.0, position=(209 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=13.929156740956024, vertical=0.0, position=(216 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=14.144103222170722, vertical=0.0, position=(223 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=14.343964082272171, vertical=0.0, position=(230 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=14.529590818288385, vertical=0.0, position=(237 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=14.70181829492116, vertical=0.0, position=(244 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=14.861459641978964, vertical=0.0, position=(251 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=15.00930218525354, vertical=0.0, position=(258 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=15.1461043050329, vertical=0.0, position=(266 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=15.27259311598556, vertical=0.0, position=(274 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=15.389462864769435, vertical=0.0, position=(282 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=15.49737394660414, vertical=0.0, position=(290 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=15.596952448501929, vertical=0.0, position=(298 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=15.688790134299854, vertical=0.0, position=(306 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=15.773444794604593, vertical=0.0, position=(314 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=15.851440892883495, vertical=0.0, position=(322 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=15.923270446932047, vertical=0.0, position=(330 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=15.989394092616699, vertical=0.0, position=(338 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=16.050242283994184, vertical=0.0, position=(346 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=16.106216590556897, vertical=0.0, position=(354 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=16.157691058402072, vertical=0.0, position=(362 ; 420)} ->> x=400, y=100
+Clark {horizontal=0.0, vertical=-13.403211590531857, position=(369 ; 234)} ->> x=400, y=100
 VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=15.705013607555156, vertical=0.0, position=(370 ; 420)} ->> x=400, y=100
+Clark {horizontal=0.19999999999999996, vertical=-12.154096388180438, position=(369 ; 228)} ->> x=400, y=100
 VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=15.288394976521424, vertical=0.0, position=(378 ; 420)} ->> x=400, y=100
+Clark {horizontal=0.3998999999999999, vertical=-10.984791240647485, position=(369 ; 222)} ->> x=400, y=100
 VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=14.90405742412611, vertical=0.0, position=(386 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=15.54873010487199, vertical=0.0, position=(394 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=16.144322585186607, vertical=0.0, position=(402 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=14.69272470585019, vertical=-0.7, position=(410 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=11.353034307645439, vertical=0.0, position=(417 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=9.230805837669003, vertical=0.0, position=(422 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=7.217786396637142, vertical=0.0, position=(426 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=5.287545295468441, vertical=0.0, position=(429 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=3.417649957339365, vertical=0.0, position=(431 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=1.5884491292621106, vertical=0.0, position=(432 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-0.2178587973285233, vertical=0.0, position=(432 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-0.4177401411895897, vertical=0.0, position=(432 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-0.6173038741256869, vertical=0.0, position=(432 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-0.8163512139431603, vertical=0.0, position=(432 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-1.0146851406818942, vertical=0.0, position=(432 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-1.2121111758450924, vertical=0.0, position=(431 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-1.408438142088571, vertical=0.0, position=(430 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-1.6034788970883462, vertical=0.0, position=(429 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-1.797051035654827, vertical=0.0, position=(428 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-1.9889775545929567, vertical=0.0, position=(427 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-2.1790874753112703, vertical=0.0, position=(426 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-2.3672164197486243, vertical=0.0, position=(425 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-2.5532071358038055, vertical=0.0, position=(424 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-2.736909969108007, vertical=0.0, position=(423 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-2.9181832786605, vertical=0.0, position=(422 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-3.0968937945408657, vertical=0.0, position=(420 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-3.2729169166042014, vertical=0.0, position=(418 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-3.4461369537467164, vertical=0.0, position=(416 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=-3.6164473039867695, vertical=0.0, position=(414 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-4.783750576230487, vertical=0.0, position=(412 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-5.926539902291523, vertical=0.0, position=(409 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-7.038730214257889, vertical=0.0, position=(406 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-8.114870906685121, vertical=0.0, position=(402 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-7.15024308210471, vertical=-0.7, position=(398 ; 420)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-6.222428141771744, vertical=-1.3987749999999999, position=(395 ; 419)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-3.325631611822962, vertical=-0.5938835712484374, position=(393 ; 419)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-0.4979820477790713, vertical=0.0, position=(392 ; 419)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=2.302637917520704, vertical=0.0, position=(392 ; 419)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=3.489382564072694, vertical=0.0, position=(393 ; 419)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=4.658943087376557, vertical=0.0, position=(395 ; 419)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=5.804678710648023, vertical=0.0, position=(398 ; 419)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=4.920442973313397, vertical=-0.7, position=(401 ; 419)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=4.059916075679324, vertical=-1.3987749999999999, position=(403 ; 418)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=1.2187087793254259, vertical=-0.5938835712484374, position=(404 ; 418)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-1.5850043483965863, vertical=0.0, position=(404 ; 418)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-2.7787237514354963, vertical=0.0, position=(403 ; 418)} ->> x=400, y=100
-VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
-Clark {horizontal=-3.959420487218517, vertical=0.0, position=(401 ; 418)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-3.1202279607320023, vertical=-0.7, position=(399 ; 418)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-2.2958884044146677, vertical=-1.3987749999999999, position=(398 ; 417)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=-1.4827106455008532, vertical=-2.0938835712484374, position=(397 ; 416)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=1.3227854316448506, vertical=-1.282922700223577, position=(397 ; 415)} ->> x=400, y=100
-VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
-Clark {horizontal=2.518411028399421, vertical=-0.47880797358670457, position=(398 ; 415)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=1.7025550431295113, vertical=-1.178234830897779, position=(399 ; 415)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.895308308942297, vertical=-1.8747642376059273, position=(400 ; 414)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.09330436652214413, vertical=-2.565977385239412, position=(400 ; 413)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-3.249516785385512, position=(400 ; 412)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-3.9231183870392563, position=(400 ; 410)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-4.5846412423424425, position=(400 ; 408)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-5.232093904039974, position=(400 ; 406)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-5.8636568874882435, position=(400 ; 403)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-6.477700707252772, position=(400 ; 400)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-7.0727991911209145, position=(400 ; 397)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-7.647737970126113, position=(400 ; 393)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-8.201518229976841, position=(400 ; 389)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-8.733355976785235, position=(400 ; 385)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-9.242677210242109, position=(400 ; 381)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-9.729109505210287, position=(400 ; 376)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-10.192470575799355, position=(400 ; 371)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-10.632754434703015, position=(400 ; 366)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-11.050115767531274, position=(400 ; 361)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-11.444853121341666, position=(400 ; 355)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-11.817391463918955, position=(400 ; 349)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-12.168264611390194, position=(400 ; 343)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-12.498097952258167, position=(400 ; 337)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-12.807591821197567, position=(400 ; 331)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-13.09750580055155, position=(400 ; 325)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-13.368644155062846, position=(400 ; 318)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-13.621842538701106, position=(400 ; 311)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-13.857956053328188, position=(400 ; 304)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-14.077848688388249, position=(400 ; 297)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-14.282384129155362, position=(400 ; 290)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-14.47241788812349, position=(400 ; 283)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-14.648790689302297, position=(400 ; 276)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-14.812323017654823, position=(400 ; 269)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-14.963810734706456, position=(400 ; 262)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-15.104021655446166, position=(400 ; 254)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-15.2336929800257, position=(400 ; 246)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-15.353529475501489, position=(400 ; 238)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-15.464202307113757, position=(400 ; 230)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-15.566348424625401, position=(400 ; 222)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-15.660570416433307, position=(400 ; 214)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-15.747436752013142, position=(400 ; 206)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-15.827482341366506, position=(400 ; 198)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-15.901209348200835, position=(400 ; 190)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-15.969088201362561, position=(400 ; 182)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-16.031558756405317, position=(400 ; 174)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-16.089031566005126, position=(400 ; 166)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-16.14188922417535, position=(400 ; 158)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-16.19048775486148, position=(400 ; 150)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
-Clark {horizontal=0.0, vertical=-16.23515802051068, position=(400 ; 142)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.0, vertical=-15.776207130633301, position=(400 ; 134)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.0, vertical=-15.353985352061688, position=(400 ; 126)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.0, vertical=-14.964623186583376, position=(400 ; 118)} ->> x=400, y=100
-VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
-Clark {horizontal=0.0, vertical=-14.604773318792304, position=(400 ; 111)} ->> x=400, y=100
+Clark {horizontal=0.5995001999749999, vertical=-9.883127144145972, position=(369 ; 217)} ->> x=400, y=100
+VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.7986016987505747, vertical=-8.838936638777584, position=(369 ; 212)} ->> x=400, y=100
+VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.9970072870674564, vertical=-7.843619636516772, position=(369 ; 208)} ->> x=400, y=100
+VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=1.1945222282412924, vertical=-6.889813714010893, position=(370 ; 204)} ->> x=400, y=100
+VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=1.3909550198568859, vertical=-5.971139881476462, position=(371 ; 201)} ->> x=400, y=100
+VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=1.5861181301887233, vertical=-5.082003602766065, position=(372 ; 198)} ->> x=400, y=100
+VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=1.77982870338144, vertical=-4.2174367012197465, position=(373 ; 196)} ->> x=400, y=100
+VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=1.9719092278479886, vertical=-3.3729697703977584, position=(374 ; 194)} ->> x=400, y=100
+VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=2.1621881628408084, vertical=-2.5445274577177157, position=(375 ; 193)} ->> x=400, y=100
+VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=2.350500518711986, vertical=-1.7283409077600171, position=(376 ; 192)} ->> x=400, y=100
+VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=2.5366883869908228, vertical=-0.9208730020264253, position=(377 ; 191)} ->> x=400, y=100
+VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=2.7206014170590875, vertical=-0.11875298431177239, position=(378 ; 191)} ->> x=400, y=100
+VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=2.9020972368828275, vertical=0.0, position=(379 ; 191)} ->> x=400, y=100
+VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=3.08104181595202, vertical=0.0, position=(380 ; 191)} ->> x=400, y=100
+VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=3.257309769272908, vertical=0.0, position=(382 ; 191)} ->> x=400, y=100
+VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=3.430784601940406, vertical=0.0, position=(384 ; 191)} ->> x=400, y=100
+VoiceCommand(direction=EAST, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=3.6013588944781274, vertical=0.0, position=(386 ; 191)} ->> x=400, y=100
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=4.268934429761035, vertical=0.0, position=(388 ; 191)} ->> x=400, y=100
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=4.923374926847037, vertical=0.0, position=(390 ; 191)} ->> x=400, y=100
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=5.562775875171272, vertical=0.0, position=(393 ; 191)} ->> x=400, y=100
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=6.185414686577803, vertical=0.0, position=(396 ; 191)} ->> x=400, y=100
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=6.789766299465472, vertical=0.0, position=(399 ; 191)} ->> x=400, y=100
 VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
-Clark {horizontal=0.0, vertical=-15.271524809559036, position=(400 ; 104)} ->> x=400, y=100
+Clark {horizontal=5.874513983462079, vertical=-1.2, position=(402 ; 191)} ->> x=400, y=100
 VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
-Clark {horizontal=0.0, vertical=-15.888476134536592, position=(400 ; 96)} ->> x=400, y=100
-VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
-Training is over in 324s
+Clark {horizontal=4.98823919710735, vertical=-2.3964, position=(405 ; 190)} ->> x=400, y=100
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=2.6260328713884546, vertical=-1.5820431675999997, position=(407 ; 189)} ->> x=400, y=100
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=0.30879274978442295, vertical=-0.7757860161396251, position=(408 ; 188)} ->> x=400, y=100
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-1.9914456326213759, vertical=0.0, position=(408 ; 188)} ->> x=400, y=100
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-2.681530993352159, vertical=0.0, position=(407 ; 188)} ->> x=400, y=100
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-3.363554472181389, vertical=0.0, position=(405 ; 188)} ->> x=400, y=100
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-4.03527072546306, vertical=0.0, position=(403 ; 188)} ->> x=400, y=100
+VoiceCommand(direction=WEST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-4.694562200893612, vertical=0.0, position=(401 ; 188)} ->> x=400, y=100
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=-3.8394649152484646, vertical=-1.2, position=(399 ; 188)} ->> x=400, y=100
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=-3.002611188159905, vertical=-2.3964, position=(397 ; 187)} ->> x=400, y=100
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=-0.6800720032917473, vertical=-1.5820431675999997, position=(396 ; 186)} ->> x=400, y=100
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=1.6210842415324058, vertical=-0.7757860161396251, position=(396 ; 185)} ->> x=400, y=100
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=2.314514456237044, vertical=0.0, position=(397 ; 185)} ->> x=400, y=100
+VoiceCommand(direction=EAST, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=3.0011220133167185, vertical=0.0, position=(398 ; 185)} ->> x=400, y=100
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=2.178605179969683, vertical=-1.2, position=(399 ; 185)} ->> x=400, y=100
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=1.366739378644206, vertical=-2.3964, position=(400 ; 184)} ->> x=400, y=100
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.5620694373213639, vertical=-3.5820431675999997, position=(400 ; 183)} ->> x=400, y=100
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-4.7499655844636255, position=(400 ; 181)} ->> x=400, y=100
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-5.893560151829654, position=(400 ; 178)} ->> x=400, y=100
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-7.006725023671567, position=(400 ; 175)} ->> x=400, y=100
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-8.083989534778205, position=(400 ; 171)} ->> x=400, y=100
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-9.120612317782196, position=(400 ; 167)} ->> x=400, y=100
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-10.112648395153995, position=(400 ; 162)} ->> x=400, y=100
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-11.056984251243968, position=(400 ; 157)} ->> x=400, y=100
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-11.951341999413325, position=(400 ; 151)} ->> x=400, y=100
+VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+Clark {horizontal=0.0, vertical=-12.794255560445972, position=(400 ; 145)} ->> x=400, y=100
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-12.585023122080965, position=(400 ; 139)} ->> x=400, y=100
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-12.389066104622684, position=(400 ; 133)} ->> x=400, y=100
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-12.205343707260907, position=(400 ; 127)} ->> x=400, y=100
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-12.032917669729972, position=(400 ; 121)} ->> x=400, y=100
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-11.870939900613722, position=(400 ; 115)} ->> x=400, y=100
+VoiceCommand(direction=SOUTH, speedLevel=L2_SUB_SONIC)
+Clark {horizontal=0.0, vertical=-11.718641865303765, position=(400 ; 109)} ->> x=400, y=100
+VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=0.0, vertical=-12.075325447385639, position=(400 ; 103)} ->> x=400, y=100
+VoiceCommand(direction=SOUTH, speedLevel=L3_SUPER_SONIC)
+Clark {horizontal=0.0, vertical=-12.410791735734941, position=(400 ; 97)} ->> x=400, y=100
+VoiceCommand(direction=NORTH, speedLevel=L3_SUPER_SONIC)
+Training is over in 209s
 Training result COMPLETED
 ]]></system-out>
   <system-err><![CDATA[Target captured com.nortal.clark.training.assignment.model.Position@256d
 Target captured com.nortal.clark.training.assignment.model.Position@256d
+Target captured com.nortal.clark.training.assignment.model.Position@2617
+Target captured com.nortal.clark.training.assignment.model.Position@2617
+Target captured com.nortal.clark.training.assignment.model.Position@2617
 Target captured com.nortal.clark.training.assignment.model.Position@30a3
 Target captured com.nortal.clark.training.assignment.model.Position@30a3
 Target captured com.nortal.clark.training.assignment.model.Position@5f6f
 Target captured com.nortal.clark.training.assignment.model.Position@5f6f
 Target captured com.nortal.clark.training.assignment.model.Position@63cf
 Target captured com.nortal.clark.training.assignment.model.Position@63cf
-Target captured com.nortal.clark.training.assignment.model.Position@256d
-Target captured com.nortal.clark.training.assignment.model.Position@256d
-Target captured com.nortal.clark.training.assignment.model.Position@256d
-Target captured com.nortal.clark.training.assignment.model.Position@256d
-Target captured com.nortal.clark.training.assignment.model.Position@256d
-Target captured com.nortal.clark.training.assignment.model.Position@256d
-Target captured com.nortal.clark.training.assignment.model.Position@256d
-Target captured com.nortal.clark.training.assignment.model.Position@256d
-Target captured com.nortal.clark.training.assignment.model.Position@2617
-Target captured com.nortal.clark.training.assignment.model.Position@2617
 Target captured com.nortal.clark.training.assignment.model.Position@6a2d
 ]]></system-err>
 </testsuite>

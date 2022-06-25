@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.nortal.clark.training.simulator.TrainingSimulatorTrainingResultTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-06-24T13:23:00" hostname="DESKTOP-UME1DA6" time="0.01">
+<testsuite name="com.nortal.clark.training.simulator.TrainingSimulatorTrainingResultTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-06-25T08:34:07" hostname="DESKTOP-UME1DA6" time="0.01">
   <properties/>
-  <testcase name="testRaceTimedOut()" classname="com.nortal.clark.training.simulator.TrainingSimulatorTrainingResultTest" time="0.0"/>
-  <testcase name="testVoiceCrashed()" classname="com.nortal.clark.training.simulator.TrainingSimulatorTrainingResultTest" time="0.0"/>
+  <testcase name="testRaceTimedOut()" classname="com.nortal.clark.training.simulator.TrainingSimulatorTrainingResultTest" time="0.001"/>
+  <testcase name="testVoiceCrashed()" classname="com.nortal.clark.training.simulator.TrainingSimulatorTrainingResultTest" time="0.001"/>
   <testcase name="testAllPositionsCaptured()" classname="com.nortal.clark.training.simulator.TrainingSimulatorTrainingResultTest" time="0.008"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[Target captured com.nortal.clark.training.assignment.model.Position@dd6

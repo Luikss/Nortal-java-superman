@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.nortal.clark.training.simulator.TrainingSimulatorAccelerationCalculationTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-06-24T13:23:00" hostname="DESKTOP-UME1DA6" time="0.023">
+<testsuite name="com.nortal.clark.training.simulator.TrainingSimulatorAccelerationCalculationTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-06-25T08:34:07" hostname="DESKTOP-UME1DA6" time="0.024">
   <properties/>
-  <testcase name="testCalculateAccelerationWith0SpeedAndLowEffort()" classname="com.nortal.clark.training.simulator.TrainingSimulatorAccelerationCalculationTest" time="0.019"/>
+  <testcase name="testCalculateAccelerationWith0SpeedAndLowEffort()" classname="com.nortal.clark.training.simulator.TrainingSimulatorAccelerationCalculationTest" time="0.018"/>
   <testcase name="testCalculateAccelerationWith0Speed()" classname="com.nortal.clark.training.simulator.TrainingSimulatorAccelerationCalculationTest" time="0.001"/>
-  <testcase name="testDragAccelerationDirection()" classname="com.nortal.clark.training.simulator.TrainingSimulatorAccelerationCalculationTest" time="0.001"/>
-  <testcase name="testCalculateAccelerationX()" classname="com.nortal.clark.training.simulator.TrainingSimulatorAccelerationCalculationTest" time="0.001"/>
-  <testcase name="testCalculateAccelerationY()" classname="com.nortal.clark.training.simulator.TrainingSimulatorAccelerationCalculationTest" time="0.0"/>
+  <testcase name="testDragAccelerationDirection()" classname="com.nortal.clark.training.simulator.TrainingSimulatorAccelerationCalculationTest" time="0.0"/>
+  <testcase name="testCalculateAccelerationX()" classname="com.nortal.clark.training.simulator.TrainingSimulatorAccelerationCalculationTest" time="0.002"/>
+  <testcase name="testCalculateAccelerationY()" classname="com.nortal.clark.training.simulator.TrainingSimulatorAccelerationCalculationTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
